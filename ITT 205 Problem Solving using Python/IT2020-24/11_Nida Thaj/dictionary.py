@@ -11,4 +11,3 @@ for i in range(num):
     my_dictionary[rollno]=[name,totalmarks]
     my_dictionary[rollno]=list
 print(my_dictionary)
-
